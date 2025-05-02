@@ -1,5 +1,3 @@
-# -web3-learning-tracker
-
 # 🧠 Web3 Learning Tracker
 
 ## 📅 Week 1: Freshman Track - Dasar Web3
